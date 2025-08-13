@@ -1,1 +1,3 @@
-console.log("Ernify is running!");
+document.getElementById("testBtn").addEventListener("click", function() {
+    alert("Ernify is working!");
+});
